@@ -24,6 +24,7 @@ Ao completar esta categoria, terá habilidades robustas em:
   * Planejamento de conteúdo;
   * Criação de blog posts, vídeos, infográficos, e-books;
   * Estratégias de storytelling;
+  * Distribuição e promoção de conteúdo.
 
 Essas competências são fundamentais para criar e executar estratégias de marketing bem-sucedidas e impulsionar o crescimento dos negócios.
 
