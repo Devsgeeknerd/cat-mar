@@ -71,6 +71,7 @@ Essas competências são fundamentais para criar e executar estratégias de mark
 >   * Envolva-se em comunidades de marketing para trocar conhecimentos e aprender com outros profissionais.
 >
 > * Atualização Constante:
+>   * Mantenha-se atualizado com as últimas tendências e tecnologias de marketing.
 
 <!-- Informações -->
 ## &#8505; Informações
