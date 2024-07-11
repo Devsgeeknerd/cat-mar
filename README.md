@@ -20,6 +20,8 @@ Ao completar esta categoria, terá habilidades robustas em:
   * E-mail marketing;
   * Publicidade paga.
 
+* **Marketing de Conteúdo:** Criação e distribuição de conteúdo valioso para atrair e engajar o público-alvo.
+
 Essas competências são fundamentais para criar e executar estratégias de marketing bem-sucedidas e impulsionar o crescimento dos negócios.
 
 <!-- Informações -->
