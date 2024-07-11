@@ -26,6 +26,8 @@ Ao completar esta categoria, terá habilidades robustas em:
   * Estratégias de storytelling;
   * Distribuição e promoção de conteúdo.
 
+* **Mídias Sociais:** Utilização de plataformas de redes sociais para promover produtos e serviços.
+
 Essas competências são fundamentais para criar e executar estratégias de marketing bem-sucedidas e impulsionar o crescimento dos negócios.
 
 <!-- Informações -->
