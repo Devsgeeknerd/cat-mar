@@ -47,6 +47,7 @@ Ao completar esta categoria, terá habilidades robustas em:
 * **Comportamento do Consumidor:** Entendimento dos fatores que influenciam as decisões de compra dos consumidores.
   * Psicologia do consumidor;
   * Processos de decisão de compra;
+  * Fatores culturais, sociais e pessoais que afetam o comportamento do consumidor;
 
 Essas competências são fundamentais para criar e executar estratégias de marketing bem-sucedidas e impulsionar o crescimento dos negócios.
 
