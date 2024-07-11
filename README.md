@@ -58,6 +58,8 @@ Ao completar esta categoria, terá habilidades robustas em:
 
 Essas competências são fundamentais para criar e executar estratégias de marketing bem-sucedidas e impulsionar o crescimento dos negócios.
 
+> [!IMPORTANT]\
+
 <!-- Informações -->
 ## &#8505; Informações
 
