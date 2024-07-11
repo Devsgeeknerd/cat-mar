@@ -65,6 +65,7 @@ Essas competências são fundamentais para criar e executar estratégias de mark
 >   * Desenvolva campanhas de marketing reais ou simuladas para aplicar os conceitos aprendidos.
 >
 > * Certificações:
+>   * Obtenha certificações reconhecidas para validar suas habilidades e aumentar a credibilidade no mercado.
 
 <!-- Informações -->
 ## &#8505; Informações
