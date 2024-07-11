@@ -39,6 +39,7 @@ Ao completar esta categoria, terá habilidades robustas em:
   * Gestão de marcas em crises.
 
 * **Análise de Dados em Marketing:** Utilização de dados para tomar decisões informadas e otimizar campanhas de marketing.
+  * Coleta e análise de dados de marketing;
 
 Essas competências são fundamentais para criar e executar estratégias de marketing bem-sucedidas e impulsionar o crescimento dos negócios.
 
