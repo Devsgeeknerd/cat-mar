@@ -17,6 +17,7 @@ Ao completar esta categoria, terá habilidades robustas em:
   * Conceitos de marketing digital;
   * SEO (search engine optimization);
   * SEM (search engine marketing);
+  * E-mail marketing;
 
 Essas competências são fundamentais para criar e executar estratégias de marketing bem-sucedidas e impulsionar o crescimento dos negócios.
 
