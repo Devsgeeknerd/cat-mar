@@ -54,6 +54,7 @@ Ao completar esta categoria, terá habilidades robustas em:
   * Diferenças culturais e adaptações de marketing;
   * Estratégias de entrada no mercado;
   * Regulações e conformidades internacionais;
+  * Gestão de campanhas globais.
 
 Essas competências são fundamentais para criar e executar estratégias de marketing bem-sucedidas e impulsionar o crescimento dos negócios.
 
