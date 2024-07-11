@@ -48,6 +48,7 @@ Ao completar esta categoria, terá habilidades robustas em:
   * Psicologia do consumidor;
   * Processos de decisão de compra;
   * Fatores culturais, sociais e pessoais que afetam o comportamento do consumidor;
+  * Pesquisa de mercado e análise de dados do consumidor.
 
 Essas competências são fundamentais para criar e executar estratégias de marketing bem-sucedidas e impulsionar o crescimento dos negócios.
 
