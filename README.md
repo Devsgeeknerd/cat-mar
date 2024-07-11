@@ -11,6 +11,7 @@ Ao completar esta categoria, terá habilidades robustas em:
   * Definição de marketing e suas funções;
   * Análise de mercado e segmentação;
   * Desenvolvimento do mix de marketing (produto, preço, praça, promoção);
+  * Comportamento do consumidor.
 
 Essas competências são fundamentais para criar e executar estratégias de marketing bem-sucedidas e impulsionar o crescimento dos negócios.
 
