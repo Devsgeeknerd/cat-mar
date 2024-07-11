@@ -62,6 +62,7 @@ Essas competências são fundamentais para criar e executar estratégias de mark
 > **Dicas de Estudo:**
 >
 > * Prática Contínua:
+>   * Desenvolva campanhas de marketing reais ou simuladas para aplicar os conceitos aprendidos.
 
 <!-- Informações -->
 ## &#8505; Informações
