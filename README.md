@@ -35,6 +35,7 @@ Ao completar esta categoria, terá habilidades robustas em:
 * **Branding:** Desenvolvimento e gestão de marcas para criar uma identidade forte e reconhecível.
   * Conceitos de branding;
   * Criação de identidade visual e voz da marca;
+  * Estratégias de posicionamento de marca;
 
 Essas competências são fundamentais para criar e executar estratégias de marketing bem-sucedidas e impulsionar o crescimento dos negócios.
 
