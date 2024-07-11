@@ -50,6 +50,8 @@ Ao completar esta categoria, terá habilidades robustas em:
   * Fatores culturais, sociais e pessoais que afetam o comportamento do consumidor;
   * Pesquisa de mercado e análise de dados do consumidor.
 
+* **Marketing internacional:** Estratégias e desafios do marketing em mercados globais.
+
 Essas competências são fundamentais para criar e executar estratégias de marketing bem-sucedidas e impulsionar o crescimento dos negócios.
 
 <!-- Informações -->
