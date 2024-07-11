@@ -42,6 +42,7 @@ Ao completar esta categoria, terá habilidades robustas em:
   * Coleta e análise de dados de marketing;
   * Ferramentas de análise;
   * Métricas de marketing digital;
+  * Teste A/B e otimização de campanhas.
 
 Essas competências são fundamentais para criar e executar estratégias de marketing bem-sucedidas e impulsionar o crescimento dos negócios.
 
