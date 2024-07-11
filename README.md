@@ -51,6 +51,7 @@ Ao completar esta categoria, terá habilidades robustas em:
   * Pesquisa de mercado e análise de dados do consumidor.
 
 * **Marketing internacional:** Estratégias e desafios do marketing em mercados globais.
+  * Diferenças culturais e adaptações de marketing;
 
 Essas competências são fundamentais para criar e executar estratégias de marketing bem-sucedidas e impulsionar o crescimento dos negócios.
 
