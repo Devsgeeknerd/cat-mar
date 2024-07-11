@@ -13,6 +13,8 @@ Ao completar esta categoria, terá habilidades robustas em:
   * Desenvolvimento do mix de marketing (produto, preço, praça, promoção);
   * Comportamento do consumidor.
 
+* **Marketing Digital:** Estratégias e técnicas para promover produtos ou serviços.
+
 Essas competências são fundamentais para criar e executar estratégias de marketing bem-sucedidas e impulsionar o crescimento dos negócios.
 
 <!-- Informações -->
