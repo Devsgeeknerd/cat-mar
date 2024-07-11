@@ -10,6 +10,7 @@ Ao completar esta categoria, terá habilidades robustas em:
 * **Fundamentos de Marketing:** Princípios básicos e conceitos fundamentos do marketing.
   * Definição de marketing e suas funções;
   * Análise de mercado e segmentação;
+  * Desenvolvimento do mix de marketing (produto, preço, praça, promoção);
 
 Essas competências são fundamentais para criar e executar estratégias de marketing bem-sucedidas e impulsionar o crescimento dos negócios.
 
