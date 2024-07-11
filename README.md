@@ -7,6 +7,8 @@ A categoria Marketing é essencial para aqueles que desejam promover produtos e 
 
 Ao completar esta categoria, terá habilidades robustas em:
 
+* **Fundamentos de Marketing:** Princípios básicos e conceitos fundamentos do marketing.
+
 Essas competências são fundamentais para criar e executar estratégias de marketing bem-sucedidas e impulsionar o crescimento dos negócios.
 
 <!-- Informações -->
