@@ -60,6 +60,8 @@ Essas competências são fundamentais para criar e executar estratégias de mark
 
 > [!IMPORTANT]\
 > **Dicas de Estudo:**
+>
+> * Prática Contínua:
 
 <!-- Informações -->
 ## &#8505; Informações
