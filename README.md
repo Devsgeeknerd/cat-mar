@@ -3,6 +3,12 @@
 
 ***Conteúdo da Categoria:***
 
+A categoria Marketing é essencial para aqueles que desejam promover produtos e serviços de maneira eficaz.
+
+Ao completar esta categoria, terá habilidades robustas em:
+
+Essas competências são fundamentais para criar e executar estratégias de marketing bem-sucedidas e impulsionar o crescimento dos negócios.
+
 <!-- Informações -->
 ## &#8505; Informações
 
