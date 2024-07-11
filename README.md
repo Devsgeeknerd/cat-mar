@@ -44,6 +44,8 @@ Ao completar esta categoria, terá habilidades robustas em:
   * Métricas de marketing digital;
   * Teste A/B e otimização de campanhas.
 
+* **Comportamento do Consumidor:** 
+
 Essas competências são fundamentais para criar e executar estratégias de marketing bem-sucedidas e impulsionar o crescimento dos negócios.
 
 <!-- Informações -->
