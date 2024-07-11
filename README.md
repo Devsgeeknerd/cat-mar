@@ -66,6 +66,8 @@ Essas competências são fundamentais para criar e executar estratégias de mark
 >
 > * Certificações:
 >   * Obtenha certificações reconhecidas para validar suas habilidades e aumentar a credibilidade no mercado.
+>
+> * Participação em Comunidades:
 
 <!-- Informações -->
 ## &#8505; Informações
