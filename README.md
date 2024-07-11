@@ -68,6 +68,7 @@ Essas competências são fundamentais para criar e executar estratégias de mark
 >   * Obtenha certificações reconhecidas para validar suas habilidades e aumentar a credibilidade no mercado.
 >
 > * Participação em Comunidades:
+>   * Envolva-se em comunidades de marketing para trocar conhecimentos e aprender com outros profissionais.
 
 <!-- Informações -->
 ## &#8505; Informações
